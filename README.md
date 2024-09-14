@@ -12,6 +12,10 @@ To do this, I:
 5. Analyzed the clustering performance by comparing the inertia values and the spread of the clusters, concluding how reducing features through PCA affects the clarity and granularity of the results.
 
 ##
+The "CryptoCLustering.ipynb" file with the answered questions can be found in the "Analysis" folder. 
+The data can be found in the "Resources" folder. 
+
+##
 I thought this challenge went pretty smoothly! It was the first one I can remember where I didn't get any errors, which felt great. Hopefully it is what you are looking for and thank you for taking the time to grade my assignment. 
 ##
 Name: Jackson Whited
